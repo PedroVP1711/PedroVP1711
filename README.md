@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 ¡Hola! Soy Pedro Vázquez
 
 
@@ -27,3 +28,6 @@ Me gusta construir soluciones sencillas, bien probadas y fáciles de desplegar.
 
 ---
 > _Última actualización: 2025-10-08_
+=======
+¡Hola, soy PedroVP!
+>>>>>>> e9827062d4b9177fa3ed88c54e1741480251b172
